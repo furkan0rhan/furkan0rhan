@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/88919177/146542235-2a107a3f-78d3-45fd-a806-c3c5fb92dd2e.gif" width="100"/>
+<img src="[https://user-images.githubusercontent.com/88919177/146542235-2a107a3f-78d3-45fd-a806-c3c5fb92dd2e.gif](https://cdnl.iconscout.com/lottie/premium/thumb/coder-man-8241436-6590068.mp4)" width="100"/>
 
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">Full Stack Developer</h3>
