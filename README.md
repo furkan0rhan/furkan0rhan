@@ -1,4 +1,4 @@
-<img src="https://media2.giphy.com/media/swPZpbObMaKyDiLNS6/giphy.gif" width="100"/>
+<img src="https://media3.giphy.com/media/E6EnvXLzCwnhV58V9l/giphy.gif?cid=ecf05e47qrkn72yktpcyer1bjr807j2qoyds48fqqevzhd7k&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"/>
 
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">Full Stack Developer</h3>
