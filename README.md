@@ -1,6 +1,6 @@
-<center>
+<div align="center">
   <img src="https://media3.giphy.com/media/E6EnvXLzCwnhV58V9l/giphy.gif?cid=ecf05e47qrkn72yktpcyer1bjr807j2qoyds48fqqevzhd7k&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100"/>
-</center>
+</div>
 
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">Full Stack Developer</h3>
