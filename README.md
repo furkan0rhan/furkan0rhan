@@ -1,3 +1,5 @@
+<img src="https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="100"/>
+
 <h1 align="center">Hi 👋, I'm Furkan</h1>
 <h3 align="center">Full Stack Developer</h3>
 
