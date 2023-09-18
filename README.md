@@ -1,5 +1,7 @@
 <div align="center">
   <img src="https://media3.giphy.com/media/E6EnvXLzCwnhV58V9l/giphy.gif?cid=ecf05e47qrkn72yktpcyer1bjr807j2qoyds48fqqevzhd7k&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="100" />
+</div>
+<div align="center">
   <a href="https://www.linkedin.com/in/furkan-orhan/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
